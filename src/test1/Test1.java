@@ -19,6 +19,7 @@ public class Test1 {
         
         System.out.println("Welcome");
         System.out.println("Hi");
+        System.out.println("Hello");
     }
     
 }
